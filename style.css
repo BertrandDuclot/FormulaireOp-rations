@@ -1,0 +1,13 @@
+.container-affichage {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    border-style: double;
+}
+
+.titre-formulaire {
+    margin: 10px 0px 20px 0px;
+    text-decoration: underline;
+}
